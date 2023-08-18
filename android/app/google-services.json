@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "743771809067",
+    "project_id": "questionfl",
+    "storage_bucket": "questionfl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743771809067:android:363be6e0115211b435516e",
+        "android_client_info": {
+          "package_name": "com.example.questionabout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743771809067-hulk6b1kl79ffr8facrveg3ubiijqece.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPpGsaBD2_noAyncPayyCJ62bfiN_6aPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743771809067-hulk6b1kl79ffr8facrveg3ubiijqece.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "743771809067-bld3rkmolddf0k6ak71vq671k5nk0u9g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.questionfl.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743771809067:android:210e1581abff431335516e",
+        "android_client_info": {
+          "package_name": "com.example.questionfl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743771809067-hulk6b1kl79ffr8facrveg3ubiijqece.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPpGsaBD2_noAyncPayyCJ62bfiN_6aPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743771809067-hulk6b1kl79ffr8facrveg3ubiijqece.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "743771809067-bld3rkmolddf0k6ak71vq671k5nk0u9g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.questionfl.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
